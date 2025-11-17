@@ -92,7 +92,7 @@
 - 🔄 **CI/CD** with GitHub Actions
 - **Stack**: `Laravel` `Flask` `MySQL` `Docker` `SonarQube`
 
-### ✈️ [Socialte](https://github.com/chihi-dorsaf/Socialte) - Travel Social Network
+### ✈️ [Socialite](https://github.com/chihi-dorsaf/Socialite) - Travel Social Network
 > Community platform for travelers
 - 🗺️ Travel experience sharing
 - 🐳 **Automated deployment** with Docker
