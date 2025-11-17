@@ -220,17 +220,4 @@ Sur votre profil `https://github.com/chihi-dorsaf`, vous verrez :
 
 ---
 
-## 🎥 Résumé visuel des étapes
-```
-1. GitHub.com → Sign in (chihi-dorsaf)
-2. Click "+" → "New repository"
-3. Name: "chihi-dorsaf"
-4. ✅ Public
-5. ✅ Add a README file
-6. Create repository
-7. Click README.md
-8. Click ✏️ (Edit)
-9. Paste template
-10. Commit changes
-11. Go to github.com/chihi-dorsaf
-12. 🎉 Your README is displayed!
+
