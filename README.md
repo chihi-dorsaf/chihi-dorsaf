@@ -92,7 +92,7 @@
 - 🔄 **CI/CD** with GitHub Actions
 - **Stack**: `Laravel` `Flask` `MySQL` `Docker` `SonarQube`
 
-### ✈️ [VestaVerse](https://github.com/chihi-dorsaf/vestaverse) - Travel Social Network
+### ✈️ [Socialte](https://github.com/chihi-dorsaf/Socialte) - Travel Social Network
 > Community platform for travelers
 - 🗺️ Travel experience sharing
 - 🐳 **Automated deployment** with Docker
@@ -151,12 +151,6 @@
 
 ---
 
-## 🌟 Community Involvement
-
-- 🔴 **Red Crescent** (2024 - Present) - Humanitarian actions
-- 🤝 **Coexister Club** (2023 - 2024) - Intercultural dialogue
-
----
 
 ## 📫 Contact Me
 
@@ -180,44 +174,5 @@
 
 **✨ Thanks for visiting my profile! Feel free to explore my projects and reach out! ✨**
 
-</div>
-```
-
----
-
-### **Étape 6 : Sauvegarder (Commit)**
-
-1. **Descendez en bas de la page**
-2. Dans **Commit message**, écrivez : `Add awesome profile README ✨`
-3. Laissez **"Commit directly to the main branch"** sélectionné
-4. **Cliquez sur le bouton vert "Commit changes"**
-
----
-
-### **Étape 7 : Vérifier le résultat**
-
-1. **Allez sur votre profil** : `https://github.com/chihi-dorsaf`
-2. **Actualisez la page** (F5 ou Ctrl+R)
-3. **Attendez 30 secondes à 2 minutes** si le README n'apparaît pas immédiatement
-
----
-
-## ✅ Ce que vous devriez voir
-
-Sur votre profil `https://github.com/chihi-dorsaf`, vous verrez :
-
-1. **En haut** : Photo, nom, bio
-2. **Juste en dessous** : Un message `chihi-dorsaf / README.md`
-3. **Votre README complet** avec :
-   - 👋 Introduction avec badges
-   - 🎓 About Me
-   - 🛠️ Tech Stack avec tous les badges colorés
-   - 🚀 Featured Projects
-   - 📊 Statistiques GitHub
-   - 💼 Experience
-   - 📫 Contact
-4. **Plus bas** : Vos repositories (maxgain, test, etc.)
-
----
 
 
